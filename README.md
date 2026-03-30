@@ -1,6 +1,6 @@
 Gustavo Moraes Camisão
 
-Estudante de sistemas da informação.
+Estudante de sistemas da informação aprendendo sobre Java.
 
 Tecnologias:
 - Java
